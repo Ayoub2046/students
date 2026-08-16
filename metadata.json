@@ -1,0 +1,6 @@
+{
+  "name": "University Lost & Found",
+  "description": "A comprehensive University Lost & Found Management System featuring item reporting, claim verification, physical storage tracking, automated matching, and QR codes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
